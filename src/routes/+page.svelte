@@ -13,6 +13,10 @@
 			href: "/crypto-price",
 			title: "Crypto Price Checker",
 		},
+		{
+			href: "/word-counter",
+			title: "Word Counter web tool",
+		},
 	];
 </script>
 
